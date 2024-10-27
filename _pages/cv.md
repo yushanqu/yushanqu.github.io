@@ -15,7 +15,7 @@ Education
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 * B.S. in Applied Mathematics, Ohio State University, 2022
 
-Work experience
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,7 +30,7 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
