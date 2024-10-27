@@ -24,7 +24,11 @@ Talks
 
 News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. I presented my work at ICERM, Brown University, August 2024
+1. I presented my work at ISMP, Montreal, Canada, July 2024 
+1. I promoted to Ph.D candidate on May 14, 2024
+1. My advisor and I publish the paper "On disjunction convex hulls by lifting" on International Symposium on Combinatorial Optimization
+1. I attended SIAM on optimization in Seattle at May 2023 
 
 <!--Create content & metadata
 ------
