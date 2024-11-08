@@ -9,7 +9,7 @@ main:
     url: /publications/
 
 
-  [//]: # (- title: "Talks"
+  <!-- - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
@@ -19,12 +19,12 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/ )  
+    url: /year-archive/ -->  
      
   - title: "CV"
     url: /cv/
 
 
-  [//]: # ( - title: "Guide"
-    url: /markdown/ )  
+  <!-- - title: "Guide"
+    url: /markdown/ -->  
     
