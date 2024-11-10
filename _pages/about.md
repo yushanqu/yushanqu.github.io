@@ -28,8 +28,10 @@ Poster
 
 News
 ------
-1. I presented my work at ICERM, Brown University, August 2024
-1. I presented my work at ISMP, Montreal, Canada, July 2024 
+1. I present the poster at AlGeCom, Nov 2024
+1. I give a talk at SIAM mini-symposium, August 2024
+1. I give a talk at ICERM, Brown University, August 2024
+1. I give a talk at ISMP, Montreal, Canada, July 2024 
 1. I promoted to Ph.D candidate on May 14, 2024
 1. My advisor and I publish the paper "On disjunction convex hulls by lifting" on International Symposium on Combinatorial Optimization
 1. I attended SIAM on optimization in Seattle at May 2023 
