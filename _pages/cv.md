@@ -34,19 +34,22 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Matlab
+* Python
+<!--
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -58,7 +61,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I am a member of Association for Women in Mathematics
+* I am a speaker for a grad school panel in undergraduate WiM (Women in Math) club
