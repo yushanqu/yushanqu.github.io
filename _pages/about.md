@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website. I am Yushan Qu, who is a third-year PhD student, advised by Professor Jon Lee.
+Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I’m passionate about exploring complex mathematical problems and developing innovative solutions in optimization theory. Thanks for visiting—I hope you find something interesting here!
 
 Publications
 ======
