@@ -16,8 +16,13 @@ Publications
 
 Talks
 ======
+1. SIAM mini-symposium, Nov 2024
 1. ICERM, Brown University, August 2024
-1. ISMP, Montreal, Canada, July 2024 
+1. ISMP, Montreal, Canada, July 2024
+
+Poster
+======
+1. ALGECOM, University of Michigan Nov 2024
 
 News
 ------
