@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial & Operations Engineering, University of Michigan, 2027 (expected)
+* Ph.D in Industrial & Operations Engineering, University of Michigan, 2027 (expected).
 <!--* M.S. in Jekyll, GitHub University, 2014-->
-* B.S. in Applied Mathematics, Ohio State University, 2022
+* B.S. in Applied Mathematics, Ohio State University, 2022.
 
 <!--Work experience
 ======
@@ -63,5 +63,7 @@ Teaching
   
 Service and leadership
 ======
-* I am a member of Association for Women in Mathematics
-* I am a speaker for a grad school panel in undergraduate WiM (Women in Math) club
+* Will be one of orginizer of AWM Mini-Conference Planning Committee.
+* E-bord of Association for Women in Mathematics for 2024-2025.
+* Member of Association for Women in Mathematics.
+* I was a speaker for a grad school panel in the undergraduate WiM (Women in Math) club, Nov 2024.
