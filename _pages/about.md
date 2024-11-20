@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I’m passionate about exploring complex mathematical problems and developing innovative solutions in optimization theory. Thanks for visiting!
+Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I’m passionate about exploring complex mathematical problems and developing innovative solutions in optimization theory. Thanks for visiting!
 
 Publications
 ======
@@ -16,25 +16,25 @@ Publications
 
 Talks
 ======
-1. Society for Industrial and Applied Mathematics (SIAM) mini-symposium, Nov 2024
-1. Institute for Computational and Experimental Research in Mathematics(ICERM), Brown University, August 2024
-1. International Symposium on Mathematical Programming, Montreal, Canada, July 2024
-1. Undergraduate Mathematics Symposium, Nov 2021
-1. Young Mathematician Conference, Aug 2021
+1. Society for Industrial and Applied Mathematics (SIAM) mini-symposium, Nov 2024.
+1. Institute for Computational and Experimental Research in Mathematics(ICERM), Brown University, August 2024.
+1. International Symposium on Mathematical Programming, Montreal, Canada, July 2024.
+1. Undergraduate Mathematics Symposium, The Ohio State University, Columbus, OH, Nov 2021.
+1. Young Mathematician Conference, the University of Illinois Chicago, Chicago, IL Aug 2021.
 
 Poster
 ======
-1. Algebra, Geometry and Combinatorics Day (AlGeCom), Nov 2024
+1. Algebra, Geometry and Combinatorics Day (AlGeCom), University of Michigan, Ann arbor, MI, Nov 2024.
 
 News
 ------
-1. I present the poster at AlGeCom, Nov 2024
-1. I give a talk at SIAM mini-symposium, August 2024
-1. I give a talk at ICERM, Brown University, August 2024
-1. I give a talk at ISMP, Montreal, Canada, July 2024 
-1. I promoted to Ph.D candidate on May 14, 2024
-1. My advisor and I publish the paper "On disjunction convex hulls by lifting" on International Symposium on Combinatorial Optimization
-1. I attended SIAM on optimization in Seattle at May 2023 
+1. I presented the poster at AlGeCom, Nov 2024.
+1. I gave a talk at SIAM mini-symposium, August 2024.
+1. I gave a talk at ICERM, Brown University, August 2024.
+1. I gave a talk at ISMP, Montreal, Canada, July 2024.
+1. I wa promoted to Ph.D candidate on May 14, 2024.
+1. My advisor and I published the paper "On disjunction convex hulls by lifting" on International Symposium in the proceedings of the Combinatorial Optimization, May 2024.
+1. I attended the SIAM Conference on Optimization in Seattle at May 2023.
 
 <!--Create content & metadata
 ------
