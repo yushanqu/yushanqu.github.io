@@ -11,10 +11,9 @@ Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industri
 
 Publications
 ======
-1. Yushan Qu, Jon Lee, 2024, On disjunction convex hulls by lifting.
-ISCO Short version: https://link.springer.com/chapter/10.1007/978-3-031-60924-4_1
-Conference Version at Arxiv: https://arxiv.org/pdf/2407.15244
-<!--1. ISMP, Montreal, Canada, July 2024-->
+1. **Yushan Qu**, Jon Lee, 2024, *On disjunction convex hulls by lifting*.  
+   **ISCO Short Version**: [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-60924-4_1)  
+   **Conference Version**: [Arxiv](https://arxiv.org/pdf/2407.15244)
 
 Talks
 ======
