@@ -44,6 +44,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
+    [Arxiv](https://arxiv.org/pdf/2407.15244)
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
