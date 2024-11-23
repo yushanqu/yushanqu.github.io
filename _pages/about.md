@@ -20,12 +20,12 @@ Talks
 1. Society for Industrial and Applied Mathematics (SIAM) mini-symposium, Nov 2024.
 1. Institute for Computational and Experimental Research in Mathematics(ICERM), Brown University, August 2024.
 1. International Symposium on Mathematical Programming, Montreal, Canada, July 2024.
-1. Undergraduate Mathematics Symposium, The Ohio State University, Columbus, OH, Nov 2021.
-1. Young Mathematician Conference, the University of Illinois Chicago, Chicago, IL Aug 2021.
+1. Young Mathematician Conference, The Ohio State University, Columbus, OH, Aug 2021.
 
 Poster
 ======
 1. Algebra, Geometry and Combinatorics Day (AlGeCom), University of Michigan, Ann arbor, MI, Nov 2024.
+1. Undergraduate Mathematics Symposium, the University of Illinois Chicago, Chicago, IL, Nov 2021.
 
 News
 ------
