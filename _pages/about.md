@@ -92,7 +92,7 @@ News
 1. I gave a talk at SIAM mini-symposium, August 2024.
 1. I gave a talk at ICERM, Brown University, August 2024.
 1. I gave a talk at ISMP, Montreal, Canada, July 2024.
-1. I wa promoted to Ph.D candidate on May 14, 2024.
+1. I advanced to Ph.D candidate on May 14, 2024.
 1. My advisor and I published the paper "On disjunction convex hulls by lifting" in the proceedings of the International Symposium on Combinatorial Optimization, May 2024.
 1. I attended the SIAM Conference on Optimization in Seattle at May 2023.
 
