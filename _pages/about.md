@@ -70,8 +70,8 @@ Publications
 
 Talks
 ======
-1. (Attending)INFORMS Annual Meeting, San Francisco, CA, Nov 2026
-1. International Symposium on Combinatorial Optimization, Kuşadası, Türkiye, May 2026
+1. (Attending)INFORMS Annual Meeting, San Francisco, CA, Nov 2026.
+1. International Symposium on Combinatorial Optimization, Kuşadası, Türkiye, May 2026.
 1. Society for Industrial and Applied Mathematics (SIAM) mini-symposium, The University of Michigan, Ann Arbor, MI, Nov 2024.
 1. Institute for Computational and Experimental Research in Mathematics(ICERM), Brown University, Providence, RI, August 2024.
 1. International Symposium on Mathematical Programming, Montreal, Canada, July 2024.
@@ -93,7 +93,7 @@ News
 1. I gave a talk at ICERM, Brown University, August 2024.
 1. I gave a talk at ISMP, Montreal, Canada, July 2024.
 1. I wa promoted to Ph.D candidate on May 14, 2024.
-1. My advisor and I published the paper "On disjunction convex hulls by lifting" on International Symposium in the proceedings of the Combinatorial Optimization, May 2024.
+1. My advisor and I published the paper "On disjunction convex hulls by lifting" in the proceedings of the International Symposium on Combinatorial Optimization, May 2024.
 1. I attended the SIAM Conference on Optimization in Seattle at May 2023.
 
 <!--Create content & metadata
