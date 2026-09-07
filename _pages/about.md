@@ -15,7 +15,7 @@ Publications
 ### Journal
 
 1. Yushan Qu, Jon Lee.
-   *On disjunction convex hulls for generalized cross polytopes.*
+   (Submitted)*On disjunction convex hulls for generalized cross polytopes.*
    2026.
    [arXiv](https://arxiv.org/abs/2607.03460)
    
