@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I expect to complete my PhD in April 2027. My email address is yushanqu@umich.edu. Thanks for visiting!
+Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I expect to complete my PhD in April 2027. Thanks for visiting!
 
 <div style="
   background-color: #00274C;
