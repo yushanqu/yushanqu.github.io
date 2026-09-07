@@ -17,6 +17,8 @@ Publications
 
 Talks
 ======
+1. (Attending)INFORMS Annual Meeting, San Francisco, CA, Nov 2026
+1. International Symposium on Combinatorial Optimization, Kuşadası, Türkiye, May 2026
 1. Society for Industrial and Applied Mathematics (SIAM) mini-symposium, The University of Michigan, Ann Arbor, MI, Nov 2024.
 1. Institute for Computational and Experimental Research in Mathematics(ICERM), Brown University, Providence, RI, August 2024.
 1. International Symposium on Mathematical Programming, Montreal, Canada, July 2024.
@@ -24,11 +26,15 @@ Talks
 
 Poster
 ======
+1. Mixed Integer Programming Workshop, University of Connecticut, Stamford Campus, May 2026
 1. Algebra, Geometry and Combinatorics Day (AlGeCom), University of Michigan, Ann arbor, MI, Nov 2024.
 1. Undergraduate Mathematics Symposium, The University of Illinois Chicago, Chicago, IL, Nov 2021.
 
 News
 ------
+1. I will attend Informs and present a talk at Job Market Showcase.
+1. I presented the poster at MIP workshop, May 2026
+1. I gave a talk at ISCO, May 2026.
 1. I presented the poster at AlGeCom, Nov 2024.
 1. I gave a talk at SIAM mini-symposium, August 2024.
 1. I gave a talk at ICERM, Brown University, August 2024.
