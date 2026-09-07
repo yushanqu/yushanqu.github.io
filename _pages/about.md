@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I’m passionate about exploring complex mathematical problems and developing innovative solutions in optimization theory. My email address is yushanqu@umich.edu. Thanks for visiting!
+Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I expect to complete my PhD in April 2027. My email address is yushanqu@umich.edu. Thanks for visiting!
 
 Publications
 ======
+
+###Journal
+
 1. Yushan Qu, Jon Lee, 2024, *On disjunction convex hulls by lifting*.  
    **ISCO Short Version**: [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-60924-4_1)  
    **Journal Version**: [Arxiv](https://arxiv.org/pdf/2407.15244)
