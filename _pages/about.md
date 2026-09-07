@@ -14,9 +14,18 @@ Publications
 
 ### Journal
 
-1. Yushan Qu, Jon Lee, 2024, *On disjunction convex hulls by lifting*.  
-   **ISCO Short Version**: [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-60924-4_1)  
-   **Journal Version**: [Arxiv](https://arxiv.org/pdf/2407.15244)
+1. Yushan Qu, Jon Lee.
+   *On disjunction convex hulls by lifting*.  
+   *Discrete Applied Mathematics*, 371:31–45, 2025.  
+   [Journal](https://doi.org/10.1016/j.dam.2025.03.013)
+
+### Conference
+
+1. Yushan Qu, Jon Lee.
+   *On disjunction convex hulls by lifting*.  
+   In *Combinatorial Optimization — ISCO 2024*, Lecture Notes in Computer Science, vol. 14594, pp. 3–15, 2024.  
+   [Proceedings](https://doi.org/10.1007/978-3-031-60924-4_1) 
+
 
 Talks
 ======
