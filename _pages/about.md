@@ -9,6 +9,38 @@ redirect_from:
 
 Hi! Welcome to my website. I’m Yushan Qu, a third-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I expect to complete my PhD in April 2027. My email address is yushanqu@umich.edu. Thanks for visiting!
 
+<div style="
+  background-color: #00274C;
+  color: #ffffff;
+  border-left: 8px solid #FFCB05;
+  border-radius: 6px;
+  padding: 28px;
+  margin: 24px 0 32px;
+">
+  <p style="
+    color: #FFCB05;
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 0 0 16px;
+  ">
+    <span aria-hidden="true">★</span> Looking for a Postdoctoral Position
+  </p>
+
+  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0 0 16px;">
+    I am on the <strong>2026–2027 academic job market</strong>
+    and seeking a postdoctoral position starting in
+    <strong>summer or fall 2027</strong>.
+  </p>
+
+  <p style="font-size: 1rem; line-height: 1.6; margin: 0;">
+    Please feel free to contact me about potential opportunities:
+    <a href="mailto:yushanqu@umich.edu"
+       style="color: #FFCB05; text-decoration: underline;">
+      yushanqu@umich.edu</a>.
+  </p>
+</div>
+
 Publications
 ======
 
