@@ -15,19 +15,23 @@ Publications
 ### Journal
 
 1. Yushan Qu, Jon Lee.
-   **On disjunction convex hulls for generalized cross polytopes.**
+   *On disjunction convex hulls for generalized cross polytopes.*
    2026.
    [arXiv](https://arxiv.org/abs/2607.03460)
    
 1. Yushan Qu, Jon Lee.
-   *On disjunction convex hulls by lifting*.  
+   *On disjunction convex hulls by lifting.*  
    *Discrete Applied Mathematics*, 371:31–45, 2025.  
    [Journal](https://doi.org/10.1016/j.dam.2025.03.013)
 
 ### Conference
 
 1. Yushan Qu, Jon Lee.
-   *On disjunction convex hulls by lifting*.  
+   *On disjunction convex hulls by lifting.*  
+   (To be appear)In *Combinatorial Optimization — ISCO 2026*
+   
+1. Yushan Qu, Jon Lee.
+   *On disjunction convex hulls by lifting.*  
    In *Combinatorial Optimization — ISCO 2024*, Lecture Notes in Computer Science, vol. 14594, pp. 3–15, 2024.  
    [Proceedings](https://doi.org/10.1007/978-3-031-60924-4_1) 
 
