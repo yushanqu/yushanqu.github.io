@@ -63,7 +63,7 @@ Teaching
   
 Service and leadership
 ======
-* Orgnizer of AWM Mini-Conference Planning Committee.
+* Organizer of AWM Mini-Conference Planning Committee.
 * One of advisory board member of Association for Women in Mathematics for 2024-2026.
 * Member of Association for Women in Mathematics.
 * I was a speaker for a grad school panel in the undergraduate WiM (Women in Math) club, Nov 2024.
