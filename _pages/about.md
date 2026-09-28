@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! Welcome to my website. I’m Yushan Qu, a fifth-year PhD student in Industrial and Operations Engineering at the University of Michigan, working under the guidance of Professor Jon Lee. My research focuses on combinatorial optimization and discrete optimization. I expect to complete my PhD in April 2027. Thanks for visiting!
-For a look at our group and lab life, visit the [Fampa-Lee International Lab](https://jon77lee.github.io/FL_Lab/).
+For a look at our group and lab life, please visit the [Fampa-Lee International Lab](https://jon77lee.github.io/FL_Lab/).
 
 <div style="
   background-color: #00274C;
